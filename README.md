@@ -136,3 +136,12 @@ Example response:
   "message": "Product deleted."
 }
 ```
+
+## CI Workflow
+
+GitHub Actions workflow:
+https://github.com/MaksymYoung/python-app/actions/workflows/ci.yml
+
+[![CI](https://github.com/MaksymYoung/python-app/actions/workflows/ci.yml/badge.svg)](
+https://github.com/MaksymYoung/python-app/actions/workflows/ci.yml
+)
